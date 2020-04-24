@@ -1,6 +1,6 @@
 # Targeted Adversarial Attack against Multimedia Recommender Systems (***TAaMR***)
 
-GitHub repository of the DMSL2020 paper: **Targeted Adversarial Attack against Multimedia Recommender Systems**, published by Tommaso Di Noia, daniele Malitesta and Felice Antonio Merra.
+GitHub repository of the DMSL2020 paper: **Targeted Adversarial Attack against Multimedia Recommender Systems**, published by Tommaso Di Noia, Daniele Malitesta and Felice Antonio Merra.
 
 The architectural overview of the proposed approach is as below:
 ![***TAaMR***](https://github.com/sisinflab/TAaMR/blob/master/Overview.png)
