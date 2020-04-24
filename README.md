@@ -3,7 +3,7 @@
 GitHub repository of the DMSL2020 paper: **Targeted Adversarial Attack against Multimedia Recommender Systems**.
 
 The architectural overview of the proposed approach is as below:
-![***TAaMR***](https://octodex.github.com/images/yaktocat.png)
+![***TAaMR***](https://github.com/sisinflab/TAaMR/blob/master/Overview.png)
 
 
 ### Data preparation
