@@ -1,12 +1,12 @@
 Available datasets:
 
-Dataset | #Users | #Items  | #Feedback
+Dataset | #Users | #Items (Images)  | #Feedback
 --- | --- | --- | ---  
-*Amazon Men* | 26,155 | 82,630  | 193,365
-*Amazon Women* | 18,514 | 76,889 | 137,929
+*[Amazon Men](https://bit.ly/2xNnQu1)* | 26,155 | 82,630 | 193,365
+*[Amazon Women](https://bit.ly/2S60XZA)* | 18,514 | 76,889 | 137,929
 
 
-Since each dataset is aroubd 2GB, if you are interested in using them please contact us at:
+For further information contact us at:
 
 * Felice Antonio Merra [felice.merra@poliba.it](felice.merra@poliba.it)
 * Daniele Malitesta [daniele.malitesta@poliba.it](daniele.malitesta@poliba.it)
