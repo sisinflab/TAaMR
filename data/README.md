@@ -6,7 +6,7 @@ Dataset | #Users | #Items  | #Feedback
 *Amazon Women* | 18,514 | 76,889 | 137,929
 
 
-If you are interested in our pre-processed datasets please contact as:
+If you are interested in our pre-processed datasets please contact us:
 
 * Felice Antonio Merra [felice.merra@poliba.it](felice.merra@poliba.it)
 * Daniele Malitesta [daniele.malitesta@poliba.it](daniele.malitesta@poliba.it)
