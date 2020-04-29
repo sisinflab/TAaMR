@@ -2,7 +2,7 @@
 
 GitHub repository of the DMSL2020 paper: **Targeted Adversarial Attack against Multimedia Recommender Systems**, published by Tommaso Di Noia, Daniele Malitesta and Felice Antonio Merra.
 
-Paper available at [Sisinflab](http://sisinflab.poliba.it/publications/2020/DMM20/).
+Paper available at [Sisinflab](http://sisinflab.poliba.it/publications/2020/DMM20/) publications web page.
 
 The architectural overview of the proposed approach is as below:
 ![***TAaMR***](https://github.com/sisinflab/TAaMR/blob/master/Overview.png)
