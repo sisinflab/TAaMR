@@ -48,19 +48,22 @@ pip install -r requirements.txt
 If you use this code, please cite us:
 
 ```
-@InProceedings{DMM20,
-author = {Tommaso {Di Noia} and Daniele Malitesta and Felice Antonio Merra},
-    title = "TAaMR: Targeted Adversarial Attack against
-    Multimedia Recommender Systems",
-    booktitle = "The 3rd International Workshop on Dependable and
-    Secure Machine Learning – DSML 2020 Co-located
-    with the 50th IEEE/IFIP International Conference
-    on Dependable Systems and Networks (DSN 2020)",
-    series = "2020",
-    year = "2020",
-    publisher = "IEEE Digital Library",
-    organization = "IEEE",
-    keywords = "Adversarial Machine Learning, Recommender Systems",
-    url = "http://sisinflab.poliba.it/publications/2020/DMM20"
+@inproceedings{DBLP:conf/dsn/NoiaMM20,
+  author    = {Tommaso Di Noia and
+               Daniele Malitesta and
+               Felice Antonio Merra},
+  title     = {TAaMR: Targeted Adversarial Attack against Multimedia Recommender
+               Systems},
+  booktitle = {50th Annual {IEEE/IFIP} International Conference on Dependable Systems
+               and Networks Workshops, {DSN} Workshops 2020, Valencia, Spain, June
+               29 - July 2, 2020},
+  pages     = {1--8},
+  publisher = {{IEEE}},
+  year      = {2020},
+  url       = {https://doi.org/10.1109/DSN-W50199.2020.00011},
+  doi       = {10.1109/DSN-W50199.2020.00011},
+  timestamp = {Mon, 03 Aug 2020 17:18:56 +0200},
+  biburl    = {https://dblp.org/rec/conf/dsn/NoiaMM20.bib},
+  bibsource = {dblp computer science bibliography, https://dblp.org}
 }
 ```
